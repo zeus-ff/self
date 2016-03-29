@@ -236,7 +236,7 @@ function create_config( )
      "addplug",
      "help",
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {146661928},
     admin_users = {},
     disabled_channels = {}
   }
